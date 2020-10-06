@@ -1,0 +1,16 @@
+{
+  "name": "autoclicker",
+  "version": "0.69",
+  "description": "Fvck Alex",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "Taxalo#8998",
+  "dependencies": {
+    "iohook": "^0.6.6",
+    "node-gyp": "^7.1.0",
+    "python3": "0.0.1",
+    "robotjs": "^0.6.0"
+  }
+}
