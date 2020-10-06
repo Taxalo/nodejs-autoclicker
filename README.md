@@ -8,4 +8,4 @@ AutoClicker básico con randomización hecho en nodejs.
 * python3
 * robotjs
 
-### Usa '**Z** para Activarlo.
+### Usa 'Z' para Activarlo.
