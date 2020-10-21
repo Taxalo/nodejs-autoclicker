@@ -1,6 +1,6 @@
 # nodejs-autoclicker
 
-AutoClicker básico con randomización hecho en nodejs.
+AutoClicker extremadamente básico con randomización hecho en nodejs.
 
 ## Dependencias:
 
